@@ -184,6 +184,8 @@ nav .nav-tab-bar li div:hover {
 nav .nav-tab-bar li div.selected {
     border-radius: 5px 5px 0 0;
     font-size: 1.5em;
+    font-weight: 700;
+    padding: 0 20px;
 }
 
 .skills,
