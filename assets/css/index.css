@@ -4,7 +4,11 @@
 * {
   font-family: "Roboto", sans-serif;
   color: #000001;
-  background-color: #eee;
+  background-color: #fff;
+}
+
+html {
+    background-color: #eee;
 }
 
 section,
