@@ -209,6 +209,10 @@ nav .nav-tab-bar li div.selected {
     flex-direction: column;
 }
 
+section .work-history ul li {
+    border: 1px solid black;
+}
+
 @media (max-width: 1000px) {
     .details {
         flex-direction: column;
